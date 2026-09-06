@@ -1,5 +1,11 @@
 # 学习AI 的参考资料
 
+## 值得一读的中文教程
+(https://www.runoob.com/ai/ai-tutorial.html)
+看了这个网站的内容，我就觉得不必花时间整理入门阶段的AI知识了。
+
+## youtube 上的一些AI 相关视频
+
 掌握最佳 AI 工具，保障你的未来学习 AI，保障你的职业未来。现在就开始吧！
 
 10 Free AI Courses Worth Learning in 2026!
