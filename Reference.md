@@ -1,5 +1,29 @@
 # 学习AI 的参考资料
 
+## 如何允许别人发表意见
+
+在公开仓库（Public Repository）中，默认全网用户都可以留言。你可以通过配置以下选项来确保交流通道畅通：
+
+1. **确保公开 Issues（议题）功能**
+* 进入你的 GitHub 仓库，点击顶部菜单的 **Settings**（设置）。
+* 在左侧菜单选择 **General**，向下滚动到 **Features** 区域。
+* 勾选 **Issues**（这样别人才能新建议题或发表意见）。
+
+2. **开启 Discussions（社区讨论区）**
+* 在相同的 **Settings -> General -> Features** 界面中，勾选 **Discussions**。
+* 这会开启一个类似论坛的版块，适合进行开放式提问、想法碰撞和日常交流。
+
+
+3. **设置 CONTRIBUTING 指南（可选）**
+* 在项目根目录下创建一个名为 `CONTRIBUTING.md` 的 Markdown 文件。
+* 在里面写明你希望别人如何提交反馈或建议（例如：“欢迎提交 Issue 说明 Bug 或提出新需求”）。
+
+## 别人如何具体发表意见（访客操作）
+访客可以注册并登录[GitHub](https://github.com/),然后在 Discussions 发帖讨论
+1. 访客点击顶部的 **Discussions** 选项卡。
+2. 点击 **New discussion**，选择适合的分类（如 Q&A、Ideas），发布问题或想法。
+
+
 ## 值得一读的中文教程
 (https://www.runoob.com/ai/ai-tutorial.html)
 看了这个网站的内容，我就觉得不必花时间整理入门阶段的AI知识了。
