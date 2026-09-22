@@ -1,4 +1,6 @@
 # [AI 是什么](What_Is_AI.md)
+- [AI时代的强者](AI时代的强者.md)
+- 
 # [应用AI 的三个层次](Three_Levels.md)
 ## 与 AI 对话
 - [怎样写提示词](Prompts.md)
