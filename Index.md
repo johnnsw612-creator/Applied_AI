@@ -7,4 +7,5 @@
 - [AI 教我学 AI](ai_teach_ai.md)
 - [AI 教我用电脑](ai_teach_pc.md)
 - 
+# [一件大事正在发生](SomethingBigIsHappenning.md)
 # [学习AI 的参考资料](Reference.md)
